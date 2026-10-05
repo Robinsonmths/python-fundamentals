@@ -1,0 +1,6 @@
+Esse é apenas um teste para saber como se escreve um arquivo 
+
+    se mudar no campo de texto ele subscreve oque foi salvo anteriormente
+
+    mudando o parametro do mode ele muda o comportamento do texto
+    

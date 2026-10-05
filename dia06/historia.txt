@@ -1,0 +1,50 @@
+========================================================================
+O QUE E UM ARQUIVO README?
+
+O README (do ingles "leia-me") e o documento principal de apresentação
+de um projeto de software, repositorio de codigo ou pasta de arquivos.
+
+Ele funciona como o "manual de instrucoes" ou "cartao de visitas" do
+projeto, fornecendo uma visao geral e orientando qualquer pessoa sobre
+o proposito do sistema e como utiliza-lo.
+
+QUAL E A SUA FUNCAO?
+
+Explicar o objetivo do projeto e que problema ele resolve.
+
+Guiar novos usuarios na instalacao e configuracao.
+
+Ensinar como executar e usar o software.
+
+Listar as tecnologias, dependencias e ferramentas utilizadas.
+
+Orientar outros desenvolvedores que desejam contribuir com o codigo.
+
+O QUE UM BOM README DEVE CONTER?
+
+Titulo e Descricao: Nome do projeto e resumo do que ele faz.
+
+Pre-requisitos: Programas ou versoes necessarias antes da instalacao.
+
+Passo a Passo de Instalacao: Comandos para clonar ou baixar e rodar.
+
+Exemplos de Uso: Instrucoes praticas e comandos para teste.
+
+Tecnologias Utilizadas: Linguagens, frameworks e bibliotecas.
+
+Licenca: Informacoes sobre como o codigo pode ser compartilhado/usado.
+
+Contato / Autores: Quem desenvolveu o projeto.
+
+FORMATOS MAIS COMUNS
+
+TXT (.txt): Texto simples sem formatacao especial, legivel em qualquer
+editor de texto.
+
+Markdown (.md): O formato mais popular no GitHub e GitLab. Permite
+formatar o texto com titulos, negrito, links, imagens e blocos de
+codigo visualmente organizados.
+
+EM RESUMO:
+O README e essencial para que qualquer pessoa consiga entender, rodar
+e colaborar com o seu projeto de forma rapida e sem complicacoes.
